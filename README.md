@@ -1,4 +1,4 @@
-As of Oct 2026, I am an Economic Analyst, who is pivoting into Software Engineering. In my experiences as an Economic Analyst, I have done significant data modelling, econometric modelling, and quantitative analysis that transfer directly to a SWE role. Over the past few months, I have developed the following skills in Software Engineering:
+As of Oct 2026, I am an Economic Analyst, who is pivoting into Software Engineering. In my experiences as an Economic Analyst, I have done significant data modelling, econometric modelling, and quantitative analysis that transfer directly to a SWE role. My motivation to become a SWE is to pursue a career revolved around solving more challenging, real world problems. Over the past few months, I have developed the following skills in Software Engineering:
 
 1. API Design and Development in Golang
 2. Relational Database querying (SQL)
